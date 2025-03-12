@@ -1,0 +1,100 @@
+What is 5 + 3?
+What is 9 - 4?
+What is 7 × 6?
+What is 56 ÷ 8?
+What is 12 + 15?
+What is 14 - 9?
+What is 11 × 5?
+What is 48 ÷ 6?
+What is 25 + 30?
+What is 18 - 7?
+What is 1/2 + 1/4?
+What is 2/3 - 1/3?
+What is 3/4 × 1/2?
+What is 5/6 ÷ 1/3?
+What is 7/10 + 2/5?
+What is 3/8 - 1/8?
+What is 1/3 + 1/6?
+What is 3/5 × 2/3?
+What is 4/7 ÷ 2/3?
+What is 5/9 + 4/9?
+What is 10% of 50?
+What is 25% of 80?
+What is 50% of 120?
+What is 75% of 200?
+What is 40% of 250?
+What is 5% of 200?
+What is 20% of 300?
+What is 30% of 400?
+What is 60% of 90?
+What is 80% of 500?
+What is 0.5 + 0.3?
+What is 0.75 - 0.25?
+What is 0.6 × 0.4?
+What is 0.9 ÷ 0.3?
+What is 1.2 + 0.8?
+What is 3.5 - 1.2?
+What is 2.5 × 0.2?
+What is 7.2 ÷ 0.9?
+What is 0.25 + 0.75?
+What is 1.8 - 0.9?
+What is 2²?
+What is 3³?
+What is 5²?
+What is 4³?
+What is 6²?
+What is 7³?
+What is 10²?
+What is 9²?
+What is 2³?
+What is 8²?
+What is x if x + 5 = 12?
+What is x if 3x = 15?
+What is x if x - 3 = 7?
+What is x if 4x = 20?
+What is x if x + 8 = 15?
+What is x if 2x + 4 = 12?
+What is x if 5x - 10 = 20?
+What is x if x/2 = 5?
+What is x if 7x + 2 = 23?
+What is x if 6x - 18 = 0?
+What is the perimeter of a square with side length 4?
+What is the area of a square with side length 5?
+What is the area of a rectangle with length 6 and width 3?
+What is the area of a circle with radius 3? (Use π = 3.14)
+What is the circumference of a circle with radius 4? (Use π = 3.14)
+What is the area of a triangle with base 4 and height 5?
+What is the perimeter of a rectangle with length 6 and width 3?
+What is the area of a triangle with base 6 and height 8?
+What is the volume of a cube with side length 3?
+What is the perimeter of a triangle with sides 3, 4, and 5?
+If you have 3 apples and buy 5 more, how many apples do you have?
+You have 10 candies and give away 4. How many do you have left?
+If a book costs $12 and you buy 3 books, how much do you spend?
+If you save $5 each week, how much will you save in 8 weeks?
+A pencil costs $2. How much will 7 pencils cost?
+You run 5 miles each day for 4 days. How many miles do you run in total?
+A box contains 12 cookies. How many cookies are in 8 boxes?
+If a car travels 60 miles per hour, how far will it travel in 4 hours?
+You have $50. If you buy 3 items that cost $10 each, how much money do you have left?
+You have 30 marbles, and you give 12 to a friend. How many marbles do you have left?
+How many minutes are in 2 hours?
+How many seconds are in 3 minutes?
+How many days are in 3 weeks?
+How many months are in 2 years?
+How many dollars is 4 quarters?
+How many nickels make 1 dollar?
+How many dimes make 1 dollar?
+How many pennies are in $3.50?
+How many hours are in 2 days?
+How many weeks are in 1 year?
+What is the ratio of 8 to 4?
+What is the ratio of 15 to 5?
+What is the ratio of 20 to 10?
+What is the ratio of 6 to 3?
+What is the ratio of 9 to 12?
+What is the ratio of 25 to 5?
+What is the ratio of 10 to 2?
+What is the ratio of 12 to 4?
+What is the ratio of 18 to 6?
+What is the ratio of 10 to 25?
